@@ -3,7 +3,5 @@ A project review system for colleges for final year project
  
  
  
-All the sql queries are in All_logindao and Queries Dao I have included the sql file with all the triggers and procedures 
-but i havent included the css files as it would become to bulky Read Mini_project_info for all the table structures ER diagrams and the rest of the information you 
-will require in this project i have included screenshots  
+Project review system for reviewing final year projects It involves managing Registrations and login to the system, along with monitoring and alerts for project reviews for both mentors and students my utilizing JDBC, Java Server pages and and MySql databases at the backend. In, addition involves a dynamic portal created using bootstrap to provide a one stop easy to access records of all mentors, students, project guides, reviewers and projects to easily track and monitor current milestones, records and information.
  
